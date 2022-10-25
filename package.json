@@ -1,0 +1,7 @@
+{
+  "name": "erik_site.github.io",
+  "version": "1.0.0",
+  "devDependencies": {
+    "three": "^0.145.0"
+  }
+}
